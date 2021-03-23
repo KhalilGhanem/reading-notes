@@ -11,3 +11,9 @@ is a way of thinking that helps you to develop yourself by positive thinking and
 *For more information about a **growth mindset** pleas vist the link below:
 
 [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+*My name is Khalil Ghanem, I am 27 years old, I graduated from ZU with a bachelor's degree in Software Engineering. I worked as Sales Representative for 2 years then I worked for cs mena company in a role of customer service, I want to shift my career and be a Full Stack Developer.*
+
+[Visit my portfolio](https://github.com/KhalilGhanem)
+
+
