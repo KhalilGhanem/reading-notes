@@ -10,6 +10,8 @@ This site contains the summarization of all submitted assignments from ASAC cour
 ***
 
 ## Code 201 Reading Notes:
+
+
 | Assignment | Link |
 | ------ | ----------- |
 | read1 | [read1]() |
@@ -18,15 +20,15 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | read4 | [read4]() |
 | read5 | [read5]() |
 | read6 | [read6]() |
-| read7 | [read6]() |
-| read8 | [read6]() |
-| read9 | [read6]() |
-| read10 | [read6]() |
-| read11 | [read6]() |
-| read12 | [read6]() |
-| read13 | [read6]() |
-| read14 | [read6]() |
-| read15 | [read6]() |
+| read7 | [read7]() |
+| read8 | [read8]() |
+| read9 | [read9]() |
+| read10 | [read10]() |
+| read11 | [read11]() |
+| read12 | [read12]() |
+| read13 | [read13]() |
+| read14 | [read14]() |
+| read15 | [read15]() |
 
 
 
@@ -37,6 +39,8 @@ This site contains the summarization of all submitted assignments from ASAC cour
 
 
 ## Code 102 Reading Notes:
+
+
 | Assignment | Link |
 | ------ | ----------- |
 | read1 | [read1](code102/read1.md) |
