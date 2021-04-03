@@ -162,3 +162,7 @@ object's properties.*
 * The HTML  `<script>` element is used in HTML pages to tell the browser to load the JavaScript file
 
 
+***
+### Resources: Duckett HTML and JS books.
+***
+
