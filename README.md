@@ -9,26 +9,26 @@ This site contains the summarization of all submitted assignments from ASAC cour
 
 ***
 
-## Code 201 Reading Notes:
+## Code **201** Reading Notes:
 
 
 | Assignment | Link |
 | ------ | ----------- |
-| read1 | [read1]() |
-| read2 | [read2]() |
-| read3 | [read3]() |
-| read4 | [read4]() |
-| read5 | [read5]() |
-| read6 | [read6]() |
-| read7 | [read7]() |
-| read8 | [read8]() |
-| read9 | [read9]() |
-| read10 | [read10]() |
-| read11 | [read11]() |
-| read12 | [read12]() |
-| read13 | [read13]() |
-| read14 | [read14]() |
-| read15 | [read15]() |
+| Read 1 | [Introductory HTML & JS](code201/class-01.md) |
+| Read 2 | [read2]() |
+| Read 3 | [read3]() |
+| Read 4 | [read4]() |
+| Read 5 | [read5]() |
+| Read 6 | [read6]() |
+| Read 7 | [read7]() |
+| Read 8 | [read8]() |
+| Read 9 | [read9]() |
+| Read 10 | [read10]() |
+| Read 11 | [read11]() |
+| Read 12 | [read12]() |
+| Read 13 | [read13]() |
+| Read 14 | [read14]() |
+| Read 15 | [read15]() |
 
 
 
@@ -38,16 +38,16 @@ This site contains the summarization of all submitted assignments from ASAC cour
 
 
 
-## Code 102 Reading Notes:
+## Code **102** Reading Notes:
 
 
 | Assignment | Link |
 | ------ | ----------- |
-| read1 | [read1](code102/read1.md) |
-| read2 | [read2](code102/read2.md) |
-| read3 | [read3](code102/read3.md) |
-| read4 | [read4](code102/read4.md) |
-| read5 | [read5](code102/read5.md) |
-| read6 | [read6](code102/read6.md) |
+| Read 1 | [Read 1](code102/read1.md) |
+| Read 2 | [Read 2](code102/read2.md) |
+| Read 3 | [Read 3](code102/read3.md) |
+| Read 4 | [Read 4](code102/read4.md) |
+| Read 5 | [Read 5](code102/read5.md) |
+| Read 6 | [Read 6](code102/read6.md) |
 
 ***

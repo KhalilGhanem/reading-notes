@@ -29,6 +29,6 @@ non-semantic elements  like div tag it's hard to track, then HTML 5 introduces s
 
 ### Escape Characters:
 * &    &amp;
-* "      &quot; 
+* "    &quot; 
 * ©    &copy;
 ~~~~ 
