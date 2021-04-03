@@ -51,3 +51,5 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 6 | [Read 6](code102/read6.md) |
 
 ***
+
+### Resources: Duckett HTML and JS books.
