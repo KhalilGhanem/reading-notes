@@ -15,7 +15,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Assignment | Link |
 | ------ | ----------- |
 | Read 1 | [Introductory HTML & JS](code201/class-01.md) |
-| Read 2 | [read2]() |
+| Read 2 | [Basics of HTML, CSS & JS](code201/class-02.md) |
 | Read 3 | [read3]() |
 | Read 4 | [read4]() |
 | Read 5 | [read5]() |
