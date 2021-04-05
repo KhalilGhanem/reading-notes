@@ -58,7 +58,7 @@ CSS can be added to HTML documents in three ways:
 
 ## Basic JavaScript Instructions:
 * statements: are programming instructions.
-* COomments: is used  to explain what your code does. 
+* Comments: is used  to explain what your code does. 
 * variables are containers for storing data values.
 
 we must declaring a variables in order to use it. to declare a variable we use var keywords follwoing by variable name ==> var usreAge;
