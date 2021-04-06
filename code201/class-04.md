@@ -50,3 +50,16 @@ var ar ea = f unction(width, height) {
 return width * height; 
 };
 ```
+
+## 6 Reasons for Pair Programming :
+### pair programming:
+is one of the programming styles and it's involves two roles: the Driver and the Navigator.
+* The Driver is the programmer who is typing the code .
+* The Navigator is the one who guide the Driver.
+### Why pair program?
+1. Greater efficiency
+2. Engaged collaboration
+3. Learning from fellow students
+4. Social skills
+5. Job interview readiness
+6. Work environment readiness
