@@ -2,7 +2,7 @@
 ## HTML Lists:
 * Unordered List: it's start with `<ul>` and each list items start with  '<li>' tag.ul is marked with bullets.
 * ordered List: it's start with `<ol>` and each list items start with  '<li>' tag.ol is marked with numbers.
-* Definition lists:it's sart with `<dl>`, contain `<dt>` fro the term, and `<dd>` contain the definition.
+* Definition lists:it's sart with `<dl>`, contain `<dt>` for the term, and `<dd>` contain the definition.
 ### All the lists can be nested.
 
 ## Boxes:
