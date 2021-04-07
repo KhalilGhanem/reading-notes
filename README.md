@@ -18,7 +18,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 2 | [Basics of HTML, CSS & JS](code201/class-02.md) |
 | Read 3 | [HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md) |
 | Read 4 | [HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04.md) |
-| Read 5 | [read5]() |
+| Read 5 | [Images, Color, Text](code201/class-05.md) |
 | Read 6 | [read6]() |
 | Read 7 | [read7]() |
 | Read 8 | [read8]() |
