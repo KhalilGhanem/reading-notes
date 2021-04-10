@@ -66,9 +66,3 @@ CSS attributes to customize the text:
   * right
   * center
   * justify
-  
-
-
-
-
-
