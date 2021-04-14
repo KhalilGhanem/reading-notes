@@ -23,7 +23,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 7 | [Object-Oriented Programming, HTML Tables](code201/class-07.md) |
 | Read 8 | [More CSS Layout](code201/class-08.md) |
 | Read 9 | [Forms and Events](code201/class-09.md) |
-| Read 10 | [read10]() |
+| Read 10 | [JS Debugging](code201/class-10.md) |
 | Read 11 | [read11]() |
 | Read 12 | [read12]() |
 | Read 13 | [read13]() |
