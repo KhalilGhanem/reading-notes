@@ -26,7 +26,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 10 | [JS Debugging](code201/class-10.md) |
 | Read 11 | [Audio, Video, Images](code201/class-11.md) |
 | Read 12 | [Chart.js, Canvas](code201/class-12.md) |
-| Read 13 | [read13]() |
+| Read 13 | [Local Storage](code201/class-13.md) |
 | Read 14 | [read14]() |
 | Read 15 | [read15]() |
 
