@@ -10,11 +10,11 @@ This site contains the summarization of all submitted assignments from ASAC cour
 
 ***
 
-## Code 401 - Advanced Software Development
-
-***
-
 ## Code 301 - Intermediate Software Development
+
+| Assignment | Link |
+| ------ | ----------- |
+| Read 1 | [Introduction to React and Components](code301/Class01.md) |
 
 ***
 
@@ -38,9 +38,6 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 13 | [Local Storage](code201/class-13.md) |
 | Read 14A | [CSS Transforms, Transitions, and Animations](code201/class-14A.md) |
 | Read 14B | [What Google Learned About Teams](code201/class-14B.md) |
-
-
-
 
 ***
 
