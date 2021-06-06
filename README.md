@@ -15,6 +15,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Assignment | Link |
 | ------ | ----------- |
 | Read 1 | [Introduction to React and Components](code301/Class01.md) |
+| Read 2 | [State and Props](code301/Class02.md) |
 
 ***
 
