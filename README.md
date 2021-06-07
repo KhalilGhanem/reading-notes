@@ -16,8 +16,10 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | ------ | ----------- |
 | Read 1 | [Introduction to React and Components](code301/Class01.md) |
 | Read 2 | [State and Props](code301/Class02.md) |
+| Read 3 | [Passing Functions as Props](code301/Class03.md) |
 
 ***
+
 
 ## Code 201 - Foundations of Software Development:
 
