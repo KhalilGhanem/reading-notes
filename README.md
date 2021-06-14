@@ -20,6 +20,8 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 4 | [React and Forms](code301/Class04.md) | 
 | Read 5 | [Putting it all together](code301/Class05.md) | 
 | Read 6 | [NODE.JS](code301/Class06.md) | 
+| Read 7 | [REST](code301/Class07.md) | 
+| Read 8 | [NODE.JS](code301/Class08.md) | 
 
 ***
 
