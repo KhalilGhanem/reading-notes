@@ -24,6 +24,17 @@
 
 ## Node JS Tutorial for Beginners #6 - Modules and require()
 1. What is a module?
+
+    A javaScript file witch have A set of functions.
+
 2. What does the word ‘require’ do?
+
+    Import modules.
+
 3. How do we bring another module into the file the we are working in?
+
+    We use require. 
+
 4. What do we have to do to make a module available?
+
+    We need to export the data that we want to use from the module.
