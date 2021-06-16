@@ -22,6 +22,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 6 | [NODE.JS](code301/Class06.md) | 
 | Read 7 | [REST](code301/Class07.md) | 
 | Read 8 | [APIs](code301/Class08.md) | 
+| Read 9 | [FUNCTIONAL PROGRAMMING](code301/Class09.md) | 
 
 ***
 
