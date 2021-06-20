@@ -24,6 +24,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 8 | [APIs](code301/Class08.md) | 
 | Read 9 | [FUNCTIONAL PROGRAMMING](code301/Class09.md) | 
 | Read 10 | [In memory storage](code301/Class10.md) | 
+| Read 11 | [Authentication](code301/Class11.md) | 
 
 ***
 
