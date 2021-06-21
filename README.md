@@ -25,7 +25,8 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 9 | [FUNCTIONAL PROGRAMMING](code301/Class09.md) | 
 | Read 10 | [In memory storage](code301/Class10.md) | 
 | Read 11 | [Authentication](code301/Class11.md) | 
-| Read 11 | [Mongo and Mongoose](code301/Class12.md) | 
+| Read 12 | [Mongo and Mongoose](code301/Class12.md) | 
+| Read 13 | [CRUD](code301/Class13.md) | 
 
 ***
 
