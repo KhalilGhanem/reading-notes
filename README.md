@@ -9,6 +9,13 @@ This site contains the summarization of all submitted assignments from ASAC cour
 *My name is Khalil Ghanem, I am 27 years old, I graduated from ZU with a bachelor's degree in Software Engineering. I worked as Sales Representative for 2 years then I worked for cs mena company in a role of customer service, I want to shift my career and be a Full Stack Developer.*
 
 ***
+## Code 401 - Advanced Software Development
+
+| Assignment | Link |
+| ------ | ----------- |
+| Read 1 | [Java Basics](code401/Class01.md) |
+
+***
 
 ## Code 301 - Intermediate Software Development
 
