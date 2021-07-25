@@ -14,6 +14,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Assignment | Link |
 | ------ | ----------- |
 | Read 1 | [Java Basics](code401/Class01.md) |
+| Read 2 | [Arrays, Loops, Imports](code401/Class02.md) |
 
 ***
 

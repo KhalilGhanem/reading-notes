@@ -11,6 +11,8 @@ kinds of variables:
 
 
 ## Operators
+
+
 | Operators	 | Precedence |
 | ------ | ----------- |
 | postfix | expr++ expr--|
@@ -27,6 +29,7 @@ kinds of variables:
 | logical OR|&#124; &#124;|
 | ternary|? :|
 | assignment|= += -= *= /= %= &= ^= &#124;= <<= >>= >>>=|
+
 
 ## Expressions, Statements, and Blocks
 
