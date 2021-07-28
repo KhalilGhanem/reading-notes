@@ -17,7 +17,7 @@ In general A Linked List is a sequence of Nodes that are connected/linked to eac
 * Current:Is a reference of type Node to the node that is currently being looked at.
 
 ## LinkedList example:
-![LinkedList](/img/LinkedList.png)
+![LinkedList](../img/LinkedList.png)
 
 
 ## Traversal:
