@@ -18,6 +18,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 3 | [Maps, primitives, File I/O](code401/Class03.md) |
 | Read 4 | [OOP](code401/Class04.md) |
 | Read 5 | [Linked Lists](code401/Class05.md) |
+| Read 6 | [Inheritance and Interfaces](code401/Class06.md) |
 
 ***
 
