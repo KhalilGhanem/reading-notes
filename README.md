@@ -19,6 +19,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 4 | [OOP](code401/Class04.md) |
 | Read 5 | [Linked Lists](code401/Class05.md) |
 | Read 6 | [Inheritance and Interfaces](code401/Class06.md) |
+| Read 8 | [OO Design](code401/Class08.md) |
 
 ***
 
