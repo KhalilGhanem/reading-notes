@@ -23,6 +23,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 9 | [WRRC and Java](code401/Class09.md) |
 | Read 10 | [Stacks & Queues](code401/Class10.md) |
 | Read 11 | [Spring](code401/Class11.md) |
+| Read 12 | [Spring RESTful Routing & Static Files](code401/Class12.md) |
 
 ***
 
