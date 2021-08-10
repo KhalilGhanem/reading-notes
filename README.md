@@ -24,6 +24,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 10 | [Stacks & Queues](code401/Class10.md) |
 | Read 11 | [Spring](code401/Class11.md) |
 | Read 12 | [Spring RESTful Routing & Static Files](code401/Class12.md) |
+| Read 13 | [Related Resources and Integration Testing](code401/Class13.md) |
 
 ***
 
