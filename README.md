@@ -27,6 +27,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 13 | [Related Resources and Integration Testing](code401/Class13.md) |
 | Read 15 | [Trees](code401/Class15.md) |
 | Read 16 | [Spring Authentication](code401/Class16.md) |
+| Read 17 | [Spring Authorization](code401/Class17.md) |
 
 ***
 
