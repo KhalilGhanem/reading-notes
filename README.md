@@ -29,6 +29,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 16 | [Spring Authentication](code401/Class16.md) |
 | Read 17 | [Spring Authorization](code401/Class17.md) |
 | Read 18 | [Web App Security](code401/Class18.md) |
+| Read 19 | [Spring and Sockets](code401/Class19.md) |
 
 ***
 
