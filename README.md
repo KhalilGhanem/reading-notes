@@ -33,6 +33,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 26 | [Android Fundamentals](code401/Class26.md) |
 | Read 27 | [Intents, Activities, and SharedPreferences](code401/Class27.md) |
 | Read 28 | [RecyclerView](code401/Class28.md) |
+| Read 29 | [Room](code401/Class29.md) |
 
 ***
 
