@@ -35,6 +35,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 28 | [RecyclerView](code401/Class28.md) |
 | Read 29 | [Room](code401/Class29.md) |
 | Read 30 | [Hash Tables](code401/Class30.md) |
+| Read 31 | [Hash Tables](code401/Class31.md) |
 
 ***
 
