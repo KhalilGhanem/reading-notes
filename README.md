@@ -1,5 +1,7 @@
 # Reading Notes
+
 ## Site Description:
+
 This site contains the summarization of all submitted assignments from ASAC courses.
 
 ***
@@ -9,6 +11,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 *My name is Khalil Ghanem, I am 27 years old, I graduated from ZU with a bachelor's degree in Software Engineering. I worked as Sales Representative for 2 years then I worked for cs mena company in a role of customer service, I want to shift my career and be a Full Stack Developer.*
 
 ***
+
 ## Code 401 - Advanced Software Development
 
 | Assignment | Link |
@@ -36,6 +39,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 29 | [Room](code401/Class29.md) |
 | Read 30 | [Hash Tables](code401/Class30.md) |
 | Read 31 | [Espresso](code401/Class31.md) |
+| Read 32 | [Serverless and Amplify](code401/Class32.md) |
 
 ***
 
@@ -52,16 +56,14 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 7 | [REST](code301/Class07.md) | 
 | Read 8 | [APIs](code301/Class08.md) | 
 | Read 9 | [FUNCTIONAL PROGRAMMING](code301/Class09.md) | 
-| Read 10 | [In memory storage](code301/Class10.md) | 
-| Read 11 | [Authentication](code301/Class11.md) | 
-| Read 12 | [Mongo and Mongoose](code301/Class12.md) | 
-| Read 13 | [CRUD](code301/Class13.md) | 
+| Read 10 | [In memory storage](code301/Class10.md) |
+| Read 11 | [Authentication](code301/Class11.md) |
+| Read 12 | [Mongo and Mongoose](code301/Class12.md) |
+| Read 13 | [CRUD](code301/Class13.md) |
 
 ***
 
-
-## Code 201 - Foundations of Software Development:
-
+## Code 201 - Foundations of Software Development
 
 | Assignment | Link |
 | ------ | ----------- |
@@ -83,11 +85,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 
 ***
 
-
-
-
-## Code 102 - Intro to Software Development:
-
+## Code 102 - Intro to Software Development
 
 | Assignment | Link |
 | ------ | ----------- |
