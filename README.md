@@ -40,6 +40,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 30 | [Hash Tables](code401/Class30.md) |
 | Read 31 | [Espresso](code401/Class31.md) |
 | Read 32 | [Serverless and Amplify](code401/Class32.md) |
+| Read 33 | [GraphQL @connectio](code401/Class33.md) |
 
 ***
 
