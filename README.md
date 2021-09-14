@@ -43,6 +43,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 33 | [GraphQL @connectio](code401/Class33.md) |
 | Read 35 | [Graphs](code401/Class35.md) |
 | Read 36 | [Cognito](code401/Class36.md) |
+| Read 37 | [S3](code401/Class37.md) |
 
 ***
 
