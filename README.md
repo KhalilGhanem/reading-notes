@@ -44,6 +44,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 35 | [Graphs](code401/Class35.md) |
 | Read 36 | [Cognito](code401/Class36.md) |
 | Read 37 | [S3](code401/Class37.md) |
+| Read 38 | [Notifications](code401/Class38.md) |
 
 ***
 
