@@ -46,6 +46,7 @@ This site contains the summarization of all submitted assignments from ASAC cour
 | Read 37 | [S3](code401/Class37.md) |
 | Read 38 | [Notifications](code401/Class38.md) |
 | Read 41 | [Intent Filters](code401/Class41.md) |
+| Read 42 | [Location](code401/Class42.md) |
 
 ***
 
